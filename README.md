@@ -1,5 +1,6 @@
 # landscape-toxicology
-Code and data for Grant et al. 2021, an analysis of the landscape scale effects of insecticides on monarch butterflies.
+Data and code for:
+*Grant, Krishnan, and Bradbury. Accepted. Conservation risks and benefits of establishing monarch butterfly (Danaus plexippus) breeding habitat in close proximity to maize and soybean fields in the North Central U.S.: A landscape-scale analysis of foliar insecticide impacts on non-migratory monarch butterfly populations. Integrated Environmental Assessment and Management.* Accepted as of February 22, 2021. 
 
 In this repository are:
   * Geographic Information System shapefiles of Story County for Scenarios 1-4. These shapefiles were used in the Repast Simphony agent-based model.
