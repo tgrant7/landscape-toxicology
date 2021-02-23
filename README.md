@@ -1,6 +1,6 @@
 # landscape-toxicology
 Data and code for:
-*Grant, Krishnan, and Bradbury. Accepted. Conservation risks and benefits of establishing monarch butterfly (Danaus plexippus) breeding habitat in close proximity to maize and soybean fields in the North Central U.S.: A landscape-scale analysis of foliar insecticide impacts on non-migratory monarch butterfly populations. Integrated Environmental Assessment and Management.* Accepted as of February 22, 2021. 
+*Grant, Krishnan, and Bradbury. 2021. Conservation risks and benefits of establishing monarch butterfly (Danaus plexippus) breeding habitat in close proximity to maize and soybean fields in the North Central U.S.: A landscape-scale analysis of foliar insecticide impacts on non-migratory monarch butterfly populations. Integrated Environmental Assessment and Management.* Accepted as of February 22, 2021. 
 
 In this repository are:
   * Geographic Information System shapefiles of Story County for Scenarios 1-4. These shapefiles were used in the Repast Simphony agent-based model.
